@@ -467,7 +467,7 @@
                         "key": "rzp_test_6a1wM4TZFK3URO", 
                         "amount": amt*100, 
                         "currency": "INR",
-                        "name": "Binary Tech",
+                        "name": "Apex",
                         "description": "Buy Product",
                         "image": "https://image.freepik.com/free-vector/logo-sample-text_355-558.jpg",
                         "handler": function (response){
