@@ -1,14 +1,7 @@
-# Apex Marketing Private Limited
-- A company which want to sell their product online so they can use this software.
+# Apex
+    An Apex is a website.
 
-## Install 
-- Pull Project from github.
-- Sql file import in phpmyadmin.
-- Edit connect.php file update database name and password.
+#### JSON
+    In this JSON is used to store data and fetch data for a website.
 
-## Usage
-- 1)Sell online product
-- 2)Give affiliate commision
-- 3)Take payment online from razorpay
-- 4)login systm also available
 
